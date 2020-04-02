@@ -3,7 +3,7 @@ void main(){
   runApp(
     new Center(
       child:new Text(
-        "Hello CHATHMINI",
+        "Hello World",
         textDirection: TextDirection.ltr,
       
         )
